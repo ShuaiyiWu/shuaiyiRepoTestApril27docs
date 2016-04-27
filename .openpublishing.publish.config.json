@@ -3,9 +3,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "shuaiyiRepoTestApril27docs",
-      "build_source_folder": "shuaiyi/shuaiyiRepoTestApril27docs",
-      "build_output_subfolder": "shuaiyi/shuaiyiRepoTestApril27docs",
+      "docset_name": "shuaiyiDocsetTestApril27docs",
+      "build_source_folder": "shuaiyi/shuaiyiDocsetTestApril27docs",
+      "build_output_subfolder": "shuaiyi/shuaiyiDocsetTestApril27docs",
       "locale": "en-us",
       "version": 0,
       "open_to_public_contributors": true,
